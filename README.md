@@ -14,7 +14,7 @@ This project identifies the fire damaged product from its image.
 
 #### CLIP Model
 
-![](clip_arch.jpg)
+![](clip_arch.JPG)
 
 ### Running on your machine
 
